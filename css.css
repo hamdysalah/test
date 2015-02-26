@@ -1,0 +1,150 @@
+@import url(http://fonts.googleapis.com/css?family=Share+Tech);
+body{
+    margin: 0;
+    padding: 0;
+	font-family: 'Share Tech', sans-serif,arial;
+}
+#TarikEdiz {
+    margin: 0;
+    padding: 0;
+}
+.TarikEdizMenu{
+    float: left;
+    margin-top: 90px;
+    padding-left: 3px;
+}
+.TarikEdizMenu a{
+    color: #231F20;
+    display: block;
+    font-size: 30px;
+    line-height: 60px;
+    text-decoration: none;
+}
+#Paris {
+    margin: 0;
+    padding: 0;
+}
+.ParisMenu{
+    float: left;
+    margin-top: 90px;
+    padding-left: 3px;
+}
+.ParisMenu a{
+    color: #231F20;
+    display: block;
+    font-size: 30px;
+    line-height: 62px;
+    text-decoration: none; 
+}
+#Boshia {
+    margin: 0;
+    padding: 0;
+}
+.BoshiaMenu{
+    float: left;
+    margin-top: 90px;
+    padding-left: 3px;
+}
+.BoshiaMenu a{
+    color: #231F20;
+    display: block;
+    font-size: 30px;
+    line-height: 62px;
+    text-decoration: none; 
+}
+#TarikEdizNews{
+	margin:0;
+	Padding:0;
+}
+.TarikEdizNewsBlock{
+    background: url("NewsBG.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 5px;
+    width: 250px;
+}
+.TarikEdizNewsBlock img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+#TarikEdizContact{
+	margin:0;
+	Padding:0;
+}
+.TarikEdizContactBlock{
+    background: url("NewsBG.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 5px;
+    width: 250px;
+}
+.TarikEdizContactBlock img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+#ParisNews{
+	margin:0;
+	Padding:0;
+}
+.ParisNewsBlock{
+    background: url("NewsBG.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 5px;
+    width: 250px;
+}
+.ParisNewsBlock img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+#ParisContact{
+	margin:0;
+	Padding:0;
+}
+.ParisContactBlock{
+    background: url("NewsBG.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 5px;
+    width: 250px;
+}
+.ParisContact img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+#BoshiaNews{
+	margin:0;
+	Padding:0;
+}
+.BoshiaNewsBlock{
+    background: url("NewsBG.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 5px;
+    width: 250px;
+}
+.BoshiaNewsBlock img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+#BoshiaContact{
+	margin:0;
+	Padding:0;
+}
+.BoshiaContactBlock{
+    background: url("NewsBG.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 5px;
+    width: 250px;
+}
+.BoshiaContactBlock img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+}
